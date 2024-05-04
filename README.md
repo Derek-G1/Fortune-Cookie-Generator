@@ -63,8 +63,3 @@ License:
 
 (Specify the license you've chosen for your project, e.g., MIT License).
 
-Additional Notes:
-
-Consider adding a section on how to customize the script's behavior (e.g., changing the API endpoint).
-You can use tools like markdownlint to ensure your README file adheres to best practices for readability and formatting.
-By including these instructions, you'll provide clear guidance for users on how to set up and run your Fortune Cookie Generator Script effectively.
